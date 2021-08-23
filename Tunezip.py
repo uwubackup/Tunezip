@@ -62,4 +62,9 @@ if __name__ == '__main__':
         if file.endswith(".py") and not file.startswith("_"):
             tunezip.load_extension(f"src.cogs.moderation.{file[:-3]}")
 
+if __name__ == '__main__':
+    for file in os.listdir(cwd+"/src/cogs/music"):
+        if file.endswith(".py") and not file.startswith("_"):
+            tunezip.load_extension(f"src.cogs.music.{file[:-3]}")
+
 tunezip.run(tunezip.config_token)
