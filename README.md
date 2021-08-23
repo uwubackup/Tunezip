@@ -4,7 +4,7 @@
 
 - It is basically recycled and better code from my old bot xD
 
-- Invite [Here](https://discord.com/api/oauth2/authorize?client_id=874258703832981514&permissions=261421923543&scope=bot)
+- Invite: Tunezip is a private bot for now, if u want to invite him into your server, join the support server and contact fightlol#0791 :D
 
 # Issues
 
