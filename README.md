@@ -4,7 +4,7 @@
 
 - It is basically recycled and better code from my old bot xD
 
-- Invite: Tunezip is a private bot for now, if u want to invite him into your server, join the support server and contact fightlol#0791 :D
+- Invite: Coming soon :D
 
 # Issues
 
