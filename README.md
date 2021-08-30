@@ -2,7 +2,7 @@
 ***
 - Tunezip is a discord.py bot I am developing
 
-- It is basically recycled and better code from my old bot xD
+- It is basically recycled and better code from my old bot xD, shh no one can know
 
 - Invite: Coming soon :D
 
