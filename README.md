@@ -4,7 +4,7 @@
 
 - It is basically recycled and better code from my old bot xD, shh no one can know
 
-- Invite: Coming soon :D
+- Invite: Tunezip is a private bot for now :p
 
 # Issues
 
